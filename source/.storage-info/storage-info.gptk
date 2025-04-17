@@ -1,0 +1,8 @@
+back = esc
+start = enter
+
+right = right
+left = left
+down = down
+up = up  
+a = enter
